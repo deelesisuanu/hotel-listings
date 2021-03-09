@@ -1,0 +1,10 @@
+[
+    {
+        "room_id": 2,
+        "hotel_id": "1",
+        "amount": "",
+        "datePaid": "2021-03-09",
+        "payeeName": "Deelesi Suanu",
+        "payeeEmail": "deelesisuanu@gmail.com"
+    }
+]

@@ -1,0 +1,31 @@
+HOTEL MANAGEMENT SYSTEM.
+
+	3 HOTELS EXISTING
+	HOTEL 1 => 70 ROOMS
+	HOTEL 2 => 50 ROOMS
+	HOTEL 3 => 300 ROOMS
+
+    IF USER PAYS IT DISPLAYS..
+        ALLOWS PART PAYMENT.
+
+    DISPLAY NUMBER OF ROOMS TAKEN AND THE REMAINDER.
+
+    3 Room Type
+        Deluxe.
+        Executive.
+        Standard.
+
+    === BREAKDOWN
+
+    -> Load Rooms From Json Object.
+
+    ==> Bookings Table ::::
+    
+    -> room_id
+    -> hotel_id
+    -> amount
+    -> datePaid
+    -> payeeName
+    -> payeeEmail
+
+===================================>>>>>>>>>>>>>>>>>>>

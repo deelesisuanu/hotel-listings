@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Garden Estate Hotel",
+        "location": "Iwofe Ada George Road.",
+        "description": "Hotel with Serene Environment and Adwquate Power Supply",
+        "rooms_available": 2,
+        "hotel_id": 1
+    },
+    {
+        "name": "POS Serve Hotels",
+        "location": "G.R.A Enugu.",
+        "description": "Hotel with Serene Environment and Adwquate Power Supply",
+        "rooms_available": 3,
+        "hotel_id": 2
+    },
+    {
+        "name": "Listings Internationals",
+        "location": "Lovebird Street, Awka Road, Enigi",
+        "description": "Hotel with Serene Environment and Adwquate Power Supply",
+        "rooms_available": 3,
+        "hotel_id": 3
+    }
+]

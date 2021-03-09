@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "type": "Deluxe",
+        "hotel_id": 1,
+        "payment": 0,
+        "amount": 114500
+    },
+    {
+        "id": 2,
+        "type": "Executive",
+        "hotel_id": 1,
+        "payment": 1,
+        "amount": 14500
+    },
+    {
+        "id": 3,
+        "type": "Standard",
+        "hotel_id": 1,
+        "payment": 0,
+        "amount": 10500
+    },
+    {
+        "id": 4,
+        "type": "Standard",
+        "hotel_id": 2,
+        "payment": 0,
+        "amount": 1500
+    },
+    {
+        "id": 5,
+        "type": "Executive",
+        "hotel_id": 2,
+        "payment": 0,
+        "amount": 3500
+    },
+    {
+        "id": 6,
+        "type": "Deluxe",
+        "hotel_id": 2,
+        "payment": 0,
+        "amount": 4500
+    },
+    {
+        "id": 7,
+        "type": "Standard",
+        "hotel_id": 3,
+        "payment": 0,
+        "amount": 5500
+    },
+    {
+        "id": 8,
+        "type": "Executive",
+        "hotel_id": 3,
+        "payment": 0,
+        "amount": 7500
+    },
+    {
+        "id": 9,
+        "type": "Deluxe",
+        "hotel_id": 3,
+        "payment": 0,
+        "amount": 9500
+    }
+]
